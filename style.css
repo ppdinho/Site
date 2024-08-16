@@ -1,0 +1,53 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    border: 0cap;
+}
+.imgComida{
+    padding-left: 10px;
+    padding-top: 10px;
+    height: 200px;
+}
+.pai{
+    display: flex;
+    gap: 20px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+button{
+    font-style:initial;
+    width: 150px;
+    height: 50px;
+    background-color: black;
+}
+.bnt{
+    padding: 100px  0px 0 200px;
+}
+.sushi{
+    padding-top: 60px;
+}
+main{
+    padding-bottom: 10px;
+    padding-left: 555px;
+}
+.quem{
+    padding-left: 420px;
+}
+.quem1{
+    padding-left: 150px;
+}
+.botao{
+    background-color: red;
+    width: 200px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 80px;
+}
+.h1teste{
+    padding-top: 25px;
+}
+.imglogo{
+    padding-bottom:100px ;
+}

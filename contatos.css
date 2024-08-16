@@ -1,0 +1,32 @@
+*{
+    padding: 0%;
+}
+header{
+    padding-top: 50px;
+    padding-left: 500px;
+}
+.imglogo{
+height: 175px;
+}
+.div{
+    display: flex;
+    padding-bottom: 50px;
+    padding-left: 250px;
+}
+
+.pad{
+height: 100px;
+}
+button{
+    color: white;
+    background-color: black;
+    width: 175px;
+    height: 90px;
+}
+.bnt{
+padding-left: 550px;
+}
+a{
+    text-decoration: none;
+    pad
+}

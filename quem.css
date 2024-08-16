@@ -1,0 +1,23 @@
+header{
+    padding-left: 470px;
+}
+.imglogo{
+    padding-top: 50px;
+    height: 200px;
+}
+main{
+    padding-top: 50px;
+    padding-left: 550px;
+}
+h2{
+    padding-left: 250px;
+    padding-top: 50px;
+}
+button{
+    background-color: black;
+    width: 200px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}

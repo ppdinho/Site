@@ -1,0 +1,45 @@
+header{
+    padding-left: 450px;
+}
+.imglogo{
+    height: 200px;
+}
+main{
+    background-color: darkgray;
+    height: 25vh;
+    border-radius: 15vh;
+}
+.flex{
+    padding-top: 30px;
+    padding-left: 500px;
+}
+.input{
+    display: block;
+}
+input{
+    padding-top: 3px;
+    padding-right: 15px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    border-radius: 20px;
+}
+footer{
+    display: flex;
+    padding-top: 50px;
+    padding-left: 450px;
+}
+button{
+    color: #fff;
+    background-color: black;
+    border-radius: 30px;
+}
+.bnt{
+    padding-left: 20px;
+    padding-right: 20px; 
+}
+.afa{
+padding-right: 100px;
+}
+.afa1{
+    padding-right: 100px;
+}
